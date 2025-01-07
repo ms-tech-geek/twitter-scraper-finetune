@@ -1,0 +1,59 @@
+{
+  "totalTweets": 10,
+  "directTweets": 10,
+  "replies": 0,
+  "retweets": 0,
+  "engagement": {
+    "totalLikes": 3415914,
+    "totalRetweetCount": 463290,
+    "totalReplies": 226876,
+    "averageLikes": "341591.40",
+    "topTweets": [
+      {
+        "id": "1868000735360905364",
+        "text": "https://t.co/IVKeU3dqY6",
+        "likes": 833846,
+        "retweetCount": 81330,
+        "url": "https://twitter.com/realDonaldTrump/status/1868000735360905364"
+      },
+      {
+        "id": "1875050089305252190",
+        "text": "TRUMP WAS RIGHT ABOUT EVERYTHING!",
+        "likes": 509503,
+        "retweetCount": 52791,
+        "url": "https://twitter.com/realDonaldTrump/status/1875050089305252190"
+      },
+      {
+        "id": "1874179147855257723",
+        "text": "MAKE AMERICA GREAT AGAIN! https://t.co/IirB0lIah7",
+        "likes": 429256,
+        "retweetCount": 62271,
+        "url": "https://twitter.com/realDonaldTrump/status/1874179147855257723"
+      },
+      {
+        "id": "1875050002046726519",
+        "text": "Our Country is a disaster, a laughing stock all over the World! This is what happens when you have O",
+        "likes": 426735,
+        "retweetCount": 63700,
+        "url": "https://twitter.com/realDonaldTrump/status/1875050002046726519"
+      },
+      {
+        "id": "1874101153891295635",
+        "text": "We just won a Historic Landslide and Mandate from the American People, but Senate Democrats are orga",
+        "likes": 356587,
+        "retweetCount": 61472,
+        "url": "https://twitter.com/realDonaldTrump/status/1874101153891295635"
+      }
+    ]
+  },
+  "timeRange": {
+    "start": "2024-12-15",
+    "end": "2025-01-06"
+  },
+  "contentTypes": {
+    "withImages": 2,
+    "withVideos": 2,
+    "withLinks": 1,
+    "textOnly": 6
+  }
+}
